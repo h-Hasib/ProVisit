@@ -1,0 +1,14 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true,
+    "source.sortMembers": true
+  },
+  "cSpell.words": [
+    "Entypo",
+    "luxon",
+    "Medilife",
+    "Pressable",
+    "Userpic"
+  ]
+}

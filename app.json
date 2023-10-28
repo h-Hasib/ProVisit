@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Pro Visit",
+    "slug": "Pro Visit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "src/assets/icon/icon.png",
+    "userInterfaceStyle": "light",
+    "splash":{
+      "backgroundColor":"#662BF2"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "src/assets/icon/adaptive-icon.png",
+        "backgroundColor": "#210B55"
+      }
+    },
+    "androidStatusBar":{
+      "hidden": true,
+      "translucent": true
+    },
+    "web": {
+      "favicon": "src/assets/icon/favicon.png"
+    }
+  }
+}

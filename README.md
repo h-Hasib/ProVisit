@@ -16,14 +16,10 @@ ProVisit is a cross-platform mobile application for both android and iOS. This a
 
 ## Tech Stack
 
-**Client:** React Native, TypeScript
+**Client:** React Native, TypeScript, Expo
 
 **Server:** Node, Express (backened isn't ready yet)
 
-
-## Demo
-
-Insert gif or link to demo
 
 
 ## App Banner

@@ -20,10 +20,10 @@ ProVisit is a cross-platform mobile application for both Android and iOS. This i
 
 **Server:** Node, Express (backend isn't ready yet)
 
-## Acknowledgements
+## Acknowledgement
 
-I've intentionally uploaded an incomplete codebase for this project, as I developed it while working for a company. I believe sharing the entire production-level code on a personal GitHub repository is ethically questionable. 
-Nevertheless, the uploaded code reflects my coding standards and showcases my contributions to these projects. 
+I've intentionally uploaded an incomplete codebase for this project, as I developed it while working for a company. I believe sharing the entire production-level code on a personal GitHub repository is ethically questionable.
+Nevertheless, the uploaded code reflects my coding standards and showcases my contributions to this project.
 
 ## App Banner
 

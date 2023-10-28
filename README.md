@@ -24,10 +24,10 @@ ProVisit is a cross-platform mobile application for both Android and iOS. This i
 
 ## App Banner
 
-![Banner 1](https://github.com/h-Hasib/ProVisit/blob/main/AppImage/provisit-field%20visit%20tracker%20app.png)
+![Banner 1](https://github.com/h-Hasib/ProVisit/blob/main/app-banner/provisit-field%20visit%20tracker%20app.png)
 
-![Banner 2](https://github.com/h-Hasib/ProVisit/blob/main/AppImage/Create%20new%20task.png)
+![Banner 2](https://github.com/h-Hasib/ProVisit/blob/main/app-banner/Create%20new%20task.png)
 
-![Banner 3](https://github.com/h-Hasib/ProVisit/blob/main/AppImage/visit%20app.png)
+![Banner 3](https://github.com/h-Hasib/ProVisit/blob/main/app-banner/visit%20app.png)
 
-![Banner 4](https://github.com/h-Hasib/ProVisit/blob/main/AppImage/Visit%20Home%20screen.png)
+![Banner 4](https://github.com/h-Hasib/ProVisit/blob/main/app-banner/Visit%20Home%20screen.png)

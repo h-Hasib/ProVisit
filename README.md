@@ -1,14 +1,14 @@
 
 # ProVisit
 
-ProVisit is a cross-platform mobile application for both android and iOS. This a field visit tracker application for better Productivity of any organization. 
+ProVisit is a cross-platform mobile application for both Android and iOS. This is a field visit tracker application for the better productivity of any organization.
 
 
 ## Features
 
-- Cross platform
+- Cross-platform
 - Light/dark mode toggle
-- Multiple language
+- Multiple languages
 - Real-time location tracking
 - Live previews
 
@@ -16,14 +16,10 @@ ProVisit is a cross-platform mobile application for both android and iOS. This a
 
 ## Tech Stack
 
-**Client:** React Native, TypeScript
+**Client:** React Native, TypeScript, Expo
 
-**Server:** Node, Express (backened isn't ready yet)
+**Server:** Node, Express (backend isn't ready yet)
 
-
-## Demo
-
-Insert gif or link to demo
 
 
 ## App Banner
